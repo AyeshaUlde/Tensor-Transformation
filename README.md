@@ -1,3 +1,4 @@
 # Tensor-Transformation
 
-This is a MATLAB/Octave code for transformation of a second rank tensor. 
+TensorTransformation.ipynb - Python code for transformation of a second rank tensor 
+tensortransform.m - MATLAB/Octave code for transformation of a second rank tensor
